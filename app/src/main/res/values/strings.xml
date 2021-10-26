@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="required_error">All fields are required!</string>
+    <string name="qty_error">Not enough quantity in the stock!!!</string>
+</resources>
